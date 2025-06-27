@@ -15,7 +15,7 @@
 
 ---
 
-## 📝 Notes
+#  Notes
 
 * All queries use the `sql_invoicing` database.
 * Views are created with unique names to avoid conflicts.
