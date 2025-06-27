@@ -11,7 +11,7 @@
   * Views for analysis
   * Index optimization queries
 
-* `Result_Screenshots.pdf` — contains **screenshots of query results** for verification and output demonstration.
+* `Results_Screenshots.pdf` — contains **screenshots of query results** for verification and output demonstration.
 
 ---
 
